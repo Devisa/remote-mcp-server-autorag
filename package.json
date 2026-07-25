@@ -21,6 +21,6 @@
 		"marked": "^15.0.12",
 		"typescript": "^5.8.3",
 		"workers-mcp": "^0.0.13",
-		"wrangler": "^4.16.0"
+		"wrangler": "^4.114.0"
 	}	
 }
